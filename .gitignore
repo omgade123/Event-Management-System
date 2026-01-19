@@ -1,0 +1,36 @@
+
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# Java build output
+bin/
+target/
+build/
+
+# Maven
+log/
+*.log
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse working files
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
